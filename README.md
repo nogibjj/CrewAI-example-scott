@@ -23,5 +23,5 @@ ollama pull openhermes
 
 ### run the file
 ```
-python main.py
+python crewAI.py
 ```
